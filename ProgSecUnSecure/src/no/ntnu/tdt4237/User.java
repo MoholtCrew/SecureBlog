@@ -1,12 +1,14 @@
 package no.ntnu.tdt4237;
 
+
 public class User {
 	
 	private String firstName;
 	private String lastName;
 	private String email;
 	private String password;
-	private String username;
+	private String username; 
+
 	
 	public User() {
 		
@@ -16,14 +18,16 @@ public class User {
 		this(username, password, email);
 		setFirstName(firstName);
 		setLastName(LastName);
+	
 	}
 	
 	public User(String username, String password, String email) {
 		setUserName(username);
 		setPassword(password);
+		
 		setEmail(email);
 	}
-	
+
 	public User(String firstName) {
 		setFirstName(firstName);
 	}
@@ -48,6 +52,7 @@ public class User {
 	public String getPassword() {
 		return password;
 	}
+	
 	public void setPassword(String password) {
 		this.password = password;
 	}

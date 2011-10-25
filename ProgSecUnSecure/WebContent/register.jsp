@@ -23,13 +23,14 @@ if (register) {
 								   request.getParameter("Password"), 
 								   request.getParameter("Email"),
 								   request.getParameter("FirstName"),
-								   request.getParameter("LastName")));
+								   request.getParameter("LastName")
+								   ));
 	}
 }
 
 if (registerSuccess) {
 	MailSender a =new MailSender();
-	a.sendAvtivationCode(Database.getUser(request.getParameter("UserName")).getEmail(), "1111");
+	a.sendAvtivationCode(Database.getUser(request.getParameter("UserName")).getEmail(), "1112");
 	%>
 		<tags:message message="Check your email!"></tags:message>
 	<%

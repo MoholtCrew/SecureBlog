@@ -84,13 +84,14 @@ if (register) {
 								   request.getParameter("Password"), 
 								   request.getParameter("Email"),
 								   request.getParameter("FirstName"),
-								   request.getParameter("LastName")));
+								   request.getParameter("LastName")
+								   ));
 	}
 }
 
 if (registerSuccess) {
 	MailSender a =new MailSender();
-	a.sendAvtivationCode(Database.getUser(request.getParameter("UserName")).getEmail(), "1111");
+	a.sendAvtivationCode(Database.getUser(request.getParameter("UserName")).getEmail(), "1112");
 	
       out.write('\n');
       out.write('	');
@@ -159,7 +160,7 @@ else
     org.apache.jsp.tag.web.message_tag _jspx_th_tags_005fmessage_005f0 = new org.apache.jsp.tag.web.message_tag();
     org.apache.jasper.runtime.AnnotationHelper.postConstruct(_jsp_annotationprocessor, _jspx_th_tags_005fmessage_005f0);
     _jspx_th_tags_005fmessage_005f0.setJspContext(_jspx_page_context);
-    // /register.jsp(34,2) name = message type = java.lang.String reqTime = true required = false fragment = false deferredValue = false expectedTypeName = java.lang.String deferredMethod = false methodSignature = null
+    // /register.jsp(35,2) name = message type = java.lang.String reqTime = true required = false fragment = false deferredValue = false expectedTypeName = java.lang.String deferredMethod = false methodSignature = null
     _jspx_th_tags_005fmessage_005f0.setMessage("Check your email!");
     _jspx_th_tags_005fmessage_005f0.doTag();
     org.apache.jasper.runtime.AnnotationHelper.preDestroy(_jsp_annotationprocessor, _jspx_th_tags_005fmessage_005f0);

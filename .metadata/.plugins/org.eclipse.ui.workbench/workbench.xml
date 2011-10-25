@@ -21,6 +21,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.server.ui.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
@@ -43,41 +44,42 @@
 <part id="5"/>
 <part id="6"/>
 <part id="7"/>
+<part id="8"/>
+<part id="9"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="C:/Users/miso/workspace/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java" title="User.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/User.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="524" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" partName="MailSender.java" path="C:/Users/miso/workspace/ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java" title="MailSender.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="298" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Authentication.java" partName="Authentication.java" path="C:/Users/miso/workspace/ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java" title="Authentication.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="276" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="register.jsp" partName="register.jsp" path="C:/Users/miso/workspace/ProgSecUnSecure/WebContent/register.jsp" title="register.jsp" tooltip="ProgSecUnSecure/WebContent/register.jsp" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="register.jsp" partName="register.jsp" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/WebContent/register.jsp" title="register.jsp" tooltip="ProgSecUnSecure/WebContent/register.jsp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/WebContent/register.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="505" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="761" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Database.java" partName="Database.java" path="C:/Users/miso/workspace/ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java" title="Database.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java" title="User.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/User.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="25" selectionTopPixel="360"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Database.java" partName="Database.java" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java" title="Database.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="3247" selectionTopPixel="1980"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1728" selectionTopPixel="7241"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatabaseCreator.java" partName="DatabaseCreator.java" path="C:/Users/miso/workspace/ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java" title="DatabaseCreator.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2453" selectionTopPixel="734"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" partName="MailSender.java" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java" title="MailSender.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="930" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="users.jsp" partName="users.jsp" path="C:/Users/miso/workspace/ProgSecUnSecure/WebContent/users.jsp" title="users.jsp" tooltip="ProgSecUnSecure/WebContent/users.jsp" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.wst.server.ui.editor" name="Tomcat v6.0 Server at localhost" partName="Tomcat v6.0 Server at localhost" title="Tomcat v6.0 Server at localhost" tooltip="Tomcat v6.0 Server at localhost" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.wst.server.ui.editor.input.factory" server-id="Tomcat v6.0 Server at localhost"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AuthenticatedMail.java" partName="AuthenticatedMail.java" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/src/no/ntnu/tdt4237/AuthenticatedMail.java" title="AuthenticatedMail.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/AuthenticatedMail.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/AuthenticatedMail.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1272" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="login.jsp" partName="login.jsp" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/WebContent/login.jsp" title="login.jsp" tooltip="ProgSecUnSecure/WebContent/login.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/WebContent/login.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="users.jsp" partName="users.jsp" path="C:/Users/miso/SecureBlog/SecureBlog/ProgSecUnSecure/WebContent/users.jsp" title="users.jsp" tooltip="ProgSecUnSecure/WebContent/users.jsp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/WebContent/users.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="695" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Config.java" partName="Config.java" path="C:/Users/miso/workspace/ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java" title="Config.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="346" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -108,7 +110,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -197,8 +199,8 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.69860893" ratioLeft="452" ratioRight="195" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.wst.server.ui.ServersView" appearance="2" expanded="2">
+<info folder="true" part="bottomRight" ratio="0.77050996" ratioLeft="695" ratioRight="207" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
@@ -235,14 +237,7 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java"/>
-</editors>
-<item active="true" historyLabel="User.java" index="0">
-<position info="not_deleted" x="524" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
@@ -260,44 +255,44 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Config.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="users.jsp" tooltip="ProgSecUnSecure/WebContent/users.jsp">
 <persistable path="/ProgSecUnSecure/WebContent/users.jsp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatabaseCreator.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Database.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="register.jsp" tooltip="ProgSecUnSecure/WebContent/register.jsp">
-<persistable path="/ProgSecUnSecure/WebContent/register.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Authentication.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/User.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiPartParser.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/MultiPartParser.java">
-<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/MultiPartParser.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="login.jsp" tooltip="ProgSecUnSecure/WebContent/login.jsp">
+<persistable path="/ProgSecUnSecure/WebContent/login.jsp"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AuthenticatedMail.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/AuthenticatedMail.java">
 <persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/AuthenticatedMail.java"/>
 </file>
+<file factoryID="org.eclipse.wst.server.ui.editor.input.factory" id="org.eclipse.wst.server.ui.editor" name="Tomcat v6.0 Server at localhost" tooltip="Tomcat v6.0 Server at localhost">
+<persistable server-id="Tomcat v6.0 Server at localhost"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MailSender.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/MailSender.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Database.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Database.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/User.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/User.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="register.jsp" tooltip="ProgSecUnSecure/WebContent/register.jsp">
+<persistable path="/ProgSecUnSecure/WebContent/register.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Config.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Config.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DatabaseCreator.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/DatabaseCreator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Authentication.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/Authentication.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiPartParser.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/MultiPartParser.java">
+<persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/MultiPartParser.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BlogPost.java" tooltip="ProgSecUnSecure/src/no/ntnu/tdt4237/BlogPost.java">
 <persistable path="/ProgSecUnSecure/src/no/ntnu/tdt4237/BlogPost.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="server.xml" tooltip="Servers/Tomcat v6.0 Server at localhost-config/server.xml">
-<persistable path="/Servers/Tomcat v6.0 Server at localhost-config/server.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="tomcat-users.xml" tooltip="Servers/Tomcat v6.0 Server at localhost-config/tomcat-users.xml">
-<persistable path="/Servers/Tomcat v6.0 Server at localhost-config/tomcat-users.xml"/>
 </file>
 </mruList>
 </workbench>

@@ -1,5 +1,5 @@
 package no.ntnu.tdt4237;
-
+import java.util.Random;
 import java.sql.*;
 import java.util.*;
 import java.util.Date;
@@ -68,8 +68,14 @@ public class Database {
 			{
 				try{
 					Statement st = conn.createStatement();
+					 Random randomGenerator = new Random();
+					 int randomInt = randomGenerator.nextInt(1000000);
+					 String activation_code=Integer.toString(randomInt);
+					;
 
-					String query = "INSERT INTO BlogUser(username,password,email,fname,lname) VALUES('"+ u.getUserName() +"','"+u.getPassword()+"','"+u.getEmail()+"','"+u.getFirstName()+"','"+u.getLastName()+"');";
+					String query = "INSERT INTO BlogUser(username,password,email,fname,lname,activation_code) VALUES " + "('m','m','m','m','m','sdfdfd');";
+							//"('"+ u.getUserName() +"','"+u.getPassword()+"','"+u.getEmail()+"','"+u.getFirstName()+"','"+u.getLastName()+"','MARKO');";
+							
 					st.executeUpdate(query);
 
 					st.close();

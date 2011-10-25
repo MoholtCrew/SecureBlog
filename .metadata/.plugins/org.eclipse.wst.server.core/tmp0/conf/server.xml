@@ -131,7 +131,7 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      <Context docBase="C:\Users\miso\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ProgSecUnSecure" path="" reloadable="true" source="org.eclipse.jst.jee.server:ProgSecUnSecure"/></Host>
+      <Context docBase="C:\Users\miso\SecureBlog\SecureBlog\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ProgSecUnSecure" path="" reloadable="true" source="org.eclipse.jst.jee.server:ProgSecUnSecure"/></Host>
     </Engine>
   </Service>
 </Server>
