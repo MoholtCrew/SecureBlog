@@ -1,0 +1,5 @@
+package no.ntnu.tdt4237;
+
+public class AuthenticatedMail {
+
+}

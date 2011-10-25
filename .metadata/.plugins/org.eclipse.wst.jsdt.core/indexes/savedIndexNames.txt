@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+C:\Users\miso\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2257761332.index
+1315779736.index
+2920984277.index
+750966738.index
+2862610919.index
+3390089013.index
